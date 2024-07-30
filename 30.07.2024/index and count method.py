@@ -1,0 +1,5 @@
+my_tuple = (1, 2, 3, 4, 2, 5)
+index_of_two = my_tuple.index(2)
+count_of_two = my_tuple.count(2)
+print(f"Index of 2: {index_of_two}")  
+print(f"Count of 2: {count_of_two}")  
